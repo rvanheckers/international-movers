@@ -1,6 +1,0 @@
-User-agent: Googlebot
-
-User-agent: *
-Allow: /
-
-https://international.movers.compare-service-companies.com/sitemap.xml
