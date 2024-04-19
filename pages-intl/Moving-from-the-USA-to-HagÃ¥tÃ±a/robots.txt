@@ -1,0 +1,8 @@
+User-agent: Googlebot
+Disallow: 
+
+User-agent: *
+Disallow: 
+
+Sitemap: https://intl-movers-en.compare-service-companies.com/sitemap.xml
+
